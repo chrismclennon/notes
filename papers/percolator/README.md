@@ -38,6 +38,8 @@ https://ai.google/research/pubs/pub36726
 * A tablet is stored as a collection of read-only files in the Google SSTable format. Bigtable allows users to control the performance characteristics of the table by grouping a set of columns into a locality group.
 * Bigtable relies on GFS to preserve data in the event of disk loss.
 
+## Comments
+
 ## Questions
 
 * What is SSTable format? Columnar binary?
